@@ -1,0 +1,15 @@
+public class Running {
+    public static void main(String[] args) {
+        // You can add your code here
+    }
+
+    public static int calculateDistance(int speed, int time) {
+        // You can add your code here
+        return 0; // Placeholder return value
+    }
+
+    public static String formatTime(int hours, int minutes) {
+        // You can add your code here
+        return null; // Placeholder return value
+    }
+}
