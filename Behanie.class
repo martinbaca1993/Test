@@ -1,6 +1,6 @@
 public class Running {
     public static void main(String[] args) {
-        // You can add your code here
+        abc = new Var();
     }
 
     public static int calculateDistance(int speed, int time) {
