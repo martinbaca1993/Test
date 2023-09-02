@@ -1,1 +1,4 @@
-Counting class
+public class Pocitanie {
+
+public function test(){}
+}
