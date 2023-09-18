@@ -5,6 +5,8 @@ public class Running {
 
     public static int calculateDistance(int speed, int time) {
         // You can add your code here
+//hrehre
+//herhrezj
         return 0; // Placeholder return value
     }
 
