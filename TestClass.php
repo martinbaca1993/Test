@@ -7,7 +7,7 @@ hrejrktzkbknekwwenhwlke
 knfonfýnufnufnzrbf
 hlmwehôlEWLHwôlmhe
 hewôlhwemlhmwehlwe
-hehrerelgwiehgwiewil
+hehrerelgwiehgwiewilňhôlewmh
 bhôwkemgklewknewl
 klgewmklewjngjew
 hewkhpowhúewp
